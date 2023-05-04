@@ -16,5 +16,15 @@ module.exports = {
   },
   plugins: ['react', '@typescript-eslint'],
   root: true,
-  rules: {},
-};
+  rules: {
+    'react/react-in-jsx-scope': 'off',
+    'react/prop-types': 'off',
+    'no-shadow': 'off',
+    'jsx-a11y/label-has-associated-control': [
+      2,
+      {
+        labelAttributes: ['htmlFor'],
+      },
+    ],
+  },
+}
