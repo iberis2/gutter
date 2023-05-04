@@ -7,14 +7,15 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "gutter-git-main-iberis2.vercel",
-  "start_url": "/",
+  "start_url": "https://vercel.com/iberis2/gutter/7P7bDAMvqZeXBewARbEohVAbkD8G",
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
   "icons": [
     {
-      "src": "/vite.svg",
-      "type": "image/svg+xml"
+      "src": "https://assets.vercel.com/image/upload/v1573246280/front/favicon/vercel/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "shortcuts": []
