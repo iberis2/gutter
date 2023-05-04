@@ -1,19 +1,30 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#bbce97",
   "description": "나의 pwa app",
   "dir": "ltr",
   "display": "standalone",
   "name": "gutter-six.vercel",
-  "orientation": "any",
+  "orientation": "landscape",
   "scope": "/",
   "short_name": "gutter-six.vercel",
   "start_url": "https://gutter-six.vercel.app/",
-  "theme_color": "#ffffff",
+  "theme_color": "#45994b",
   "categories": [],
-  "screenshots": [],
+  "screenshots": [
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" },
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" },
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" },
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" },
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" },
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" },
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" },
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" },
+    { "src": "screenshot.png", "sizes": "1322x1382", "type": "image/png" }
+  ],
   "icons": [
     {
-      "src": "./emoji-512.png",
+      "src": "emoji-512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
