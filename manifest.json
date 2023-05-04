@@ -1,20 +1,19 @@
 {
   "background_color": "#ffffff",
-  "description": "My First PWA",
+  "description": "나의 pwa app",
   "dir": "ltr",
   "display": "standalone",
-  "name": "gutter-git-main-iberis2.vercel",
+  "name": "gutter-six.vercel",
   "orientation": "any",
   "scope": "/",
-  "short_name": "gutter-git-main-iberis2.vercel",
-  "start_url": "https://gutter-six.vercel.app/",
+  "short_name": "gutter-six.vercel",
+  "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [],
   "screenshots": [],
   "icons": [
     {
-      "src": "./emoji-512.png",
-      "sizes": "512x512",
+      "src": "../public/emoji-512.png",
       "type": "image/png"
     }
   ],
